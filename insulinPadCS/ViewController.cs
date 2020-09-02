@@ -2,7 +2,7 @@
 using System;
 using UIKit;
 
-namespace insulinPadCS
+namespace gbn6500
 {
     public partial class ViewController : UIViewController
     {
