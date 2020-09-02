@@ -1,0 +1,16 @@
+.vs/
+Assets.xcassets/
+Properties/
+Resources/
+bin/
+obj/
+*.sln
+*.plist
+*.storyboard
+*.csproj
+*.xcassets
+AppDelegate.cs
+Main.cs
+SceneDelegate.cs
+ViewController.designer.cs
+
